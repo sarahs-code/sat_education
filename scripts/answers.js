@@ -8,7 +8,7 @@ function myFunction() {
   } else {
     text_in_correct = "Incorrect";
   }
-  document.getElementById("demo").innerHTML = text_in_correct;
+  document.getElementById("first").innerHTML = text_in_correct;
 }
 
 function myFunction2() {
