@@ -1,0 +1,29 @@
+.heading {
+  background-color: lightslategray;
+  font-size: 80px;
+  font-weight: bold;
+  font-style: inherit;
+  margin-top: 10px;
+  text-align: center;
+  border: 10px solid;
+}
+body {
+  background-color: lightsteelblue;
+}
+.directions {
+  font-size: 25px;
+  margin-top: -90px;
+  background-color: lavender;
+  text-align: center;
+  border: 10px solid;
+}
+.btn {
+  font-size: 20px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: rgb(179, 145, 187);
+}
+.question {
+  padding-bottom: 2%;
+}
